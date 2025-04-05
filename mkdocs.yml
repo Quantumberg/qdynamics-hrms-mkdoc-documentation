@@ -1,0 +1,32 @@
+site_name: HRMS Documentation
+
+nav:
+  - Introduction: Introduction/Introduction.md
+  - Organization Management:
+      - Employee: Organization Management/Employee.md
+      - Employment Type: Organization Management/EmploymentType.md
+      - Branch: Organization Management/Branch.md
+      - Department: Organization Management/Department.md
+      - Designation: Organization Management/Designation.md
+      - Employee Grade: Organization Management/EmployeeGrade.md
+      - Employee Group: Organization Management/EmployeeGroup.md
+      - Employee Health Insurance: Organization Management/EmployeeHealthInsurance.md
+      - Organizational Chart: Organization Management/OrganizationalChart.md
+      
+  - Attendance:
+      - Attendance: Attendance/Attendance.md
+      - Employee Attendance Tool: Attendance/EmployeeAttendanceTool.md
+      - Attendance Request: Attendance/AttendanceRequest.md
+
+
+theme:
+  name: material
+  features:
+    - toc.integrate  
+
+markdown_extensions:
+  - toc:
+      permalink: true  
+      toc_depth: 3      
+
+# readthedocs
