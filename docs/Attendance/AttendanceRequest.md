@@ -42,3 +42,33 @@ As seen below, respective Attendance records are linked with the submitted Atten
 If you cancel the Attendance Request, the linked Attendance documents created will be cancelled as well.
 
 ![Attendance-Request-4](../images/Attendance-Images/Attendance-Request-4.png)
+
+# 3. Features
+
+# 3.1 Overwrite an Existing Attendance Record
+
+If an employee was incorrectly marked Absent (e.g., via Auto Attendance), they can submit a request to rectify it. Once approved, the Attendance record will be updated.
+
+![AttendanceMarkabsenttopresent](../images/Attendance-Images/MarkAttendanceabsenttowfh.png)
+
+Approval workflows can be set up for better control.
+
+# 3.2 Request for Attendance in Bulk
+
+Employees can also request for attendance for an entire month or week. On submission, attendance marking is skipped for holidays or leave days.
+
+You can enable "Include Holidays" if you want to mark attendance for holidays too.
+
+![RequestAttendanceForBuld](../images/Attendance-Images/requestattendanceforbulk.png)
+
+# 4. Related Topics
+
+1. Employee Attendance Tool
+
+2. Shift Management
+
+3. Auto Attendance
+
+4. Upload Attendance
+
+5. Attendance

@@ -2,7 +2,7 @@
 
 **An Employee Grade is a grouping of employees with similar positions or values, used to assign compensation rates and salary structures.**
 
-QuantumBerg HRMS allows you to configure Employee Grades, making it easy to categorize employees based on seniority or other criteria.
+Q-Dynamics  HRMS allows you to configure Employee Grades, making it easy to categorize employees based on seniority or other criteria.
 
 Employee Grades also help in fetching employee records in bulk for payroll processing, leave allocation, and other HR operations.
 

@@ -2,7 +2,7 @@
 
 **You can employ people under a number of categories, each having its own wage and leave entitlements. This is called an Employment Type.**
 
-QuantumBerg HRMS allows you to select an Employment Type from a pre-defined list or even create a new one based on your requirements.
+Q-Dynamics  HRMS allows you to select an Employment Type from a pre-defined list or even create a new one based on your requirements.
 
 To access the Employment Type, go to:
 

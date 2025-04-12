@@ -17,7 +17,40 @@ nav:
       - Attendance: Attendance/Attendance.md
       - Employee Attendance Tool: Attendance/EmployeeAttendanceTool.md
       - Attendance Request: Attendance/AttendanceRequest.md
+      - Upload Attendance: Attendance/UploadAttendance.md
+      - Employee Check-In: Attendance/EmployeeCheckIn.md
+      - Auto Attendance: Attendance/AutoAttendance.md
+      - Integrating Q-Dynamics HR with Biometric Attendance Devices: Attendance/IntegratingQBwithBiometricAttendanceDevices.md
 
+  - Shift Management:
+      - Shift Type: ShiftManagement/ShiftType.md
+      - Shift Location: ShiftManagement/ShiftLocation.md
+      - Shift Request: ShiftManagement/ShiftRequest.md
+      - Shift Assignment: ShiftManagement/ShiftAssignment.md
+      - Shift Schedule: ShiftManagement/ShiftSchedule.md
+      - Shift Schedule Assignment: ShiftManagement/ShiftScheduleAssignment.md
+      - Shift Assignment Tool: ShiftManagement/ShiftAssignmentTool.md
+
+  - Leave Management:
+      - Leaves: LeaveManagement/Leaves.md
+      - Holiday List: LeaveManagement/HolidayList.md
+      - Leave Type: LeaveManagement/LeaveType.md
+      - Leave Period: LeaveManagement/LeavePeriod.md
+      - Leave Policy: LeaveManagement/LeavePolicy.md
+      - Leave Policy Assignment: LeaveManagement/LeavePolicyAssignment.md
+      - Leave Allocation: LeaveManagement/LeaveAllocation.md
+      - Leave Control Panel: LeaveManagement/LeaveControlPanel.md
+      - Leave Application: LeaveManagement/LeaveApplication.md
+      - Compensatory Leave Request: LeaveManagement/CompensatoryLeave.md
+      - Leave Encashment: LeaveManagement/LeaveEncashment.md
+      - Leave Block List: LeaveManagement/LeaveBlockList.md
+      - Leave Ledger Entry: LeaveManagement/LeaveLedgerEntry.md
+      - Leave Ledger Report: LeaveManagement/LeaveLedgerReport.md
+
+  - Performance:
+      - Appraisal Template: Performance/AppraisalTemplate.md
+      - Appraisal Cycle: Performance/AppraisalCycle.md
+      - Appraisal: Performance/Appraisal.md
 
 theme:
   name: material

@@ -2,7 +2,7 @@
 
 **An individual who works part-time or full-time under a contract of employment and has recognized rights and duties in your company is your Employee.**
 
-In QuantumBerg HRMS, you can manage the Employee master. It captures the demographic, personal, and professional details, joining and leave details, etc. of the Employee.
+In Q-Dynamics  HRMS, you can manage the Employee master. It captures the demographic, personal, and professional details, joining and leave details, etc. of the Employee.
 
 To access the Employee master, go to:
 

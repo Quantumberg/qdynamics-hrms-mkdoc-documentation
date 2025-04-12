@@ -2,7 +2,7 @@
 
 **Attendance is a record indicating whether an Employee was present on a particular day.**
 
-In QuantumBerg HRMS, you can mark and record attendance on a daily basis using the Attendance module.
+In Q-Dynamics HRMS, you can mark and record attendance on a daily basis using the Attendance module.
 
 To access Attendance, go to:
 

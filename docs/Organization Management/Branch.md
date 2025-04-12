@@ -2,7 +2,7 @@
 
 **A Branch office is an outlet of a company located at a different location other than the main office.**
 
-QuantumBerg HRMS allows you to create and maintain a record of the different branches of your organization.
+Q-Dynamics  HRMS allows you to create and maintain a record of the different branches of your organization.
 
 To access Branch, go to:
 

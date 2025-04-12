@@ -4,7 +4,7 @@
 
 In company management, various stakeholders—such as directors, officers, managers, and shareholders—guide the organization toward achieving its business objectives.
 
-QuantumBerg HRMS allows you to create different Designations and specify the skills required for each role.
+Q-Dynamics  HRMS allows you to create different Designations and specify the skills required for each role.
 
 To access Designation, go to:
 
